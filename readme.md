@@ -4,6 +4,7 @@ Project for quick testing of Event Gateways
 This project contains two processes to test Event Gateways.
 
 #### EventGatewayTest.bpmn
+![](src/main/resources/com/myspace/eventgatewaytest/EventGatewayTest.EventGatewayTest-svg.svg)
 Contanis Event Gateway and all 4 possible outgoing events:
 * Timer
 * Signal
